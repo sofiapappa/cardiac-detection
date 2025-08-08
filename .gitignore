@@ -1,0 +1,9 @@
+# Virtual environment
+cardiac_env/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+# Jupyter Notebook
